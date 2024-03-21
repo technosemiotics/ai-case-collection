@@ -1,4 +1,10 @@
 baseURL = 'http://ai.technosemiotics.eu/'
 languageCode = 'en-us'
-title = 'ai case collection'
+title = 'ai case collection : ts'
 theme = 'hugo-book'
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookDateFormat = 'January 2, 2006'
+  BookPortableLinks = true
