@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://ai.technosemiotics.eu/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ai case collection'
 theme = 'hugo-book'
