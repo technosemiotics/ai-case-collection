@@ -2,6 +2,7 @@ baseURL = 'https://technosemiotics.github.io/ai-case-collection/'
 languageCode = 'en-us'
 title = 'ai case collection : ts'
 theme = 'hugo-book'
+enableGitInfo = true
 
 [params]
   BookTheme = 'auto'
